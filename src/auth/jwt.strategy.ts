@@ -1,5 +1,3 @@
-// src/app/auth/jwt.strategy.ts
-
 import { AuthService } from './auth.service';
 import { ExtractJwt, Strategy } from 'passport-jwt';
 import { PassportStrategy } from '@nestjs/passport';
